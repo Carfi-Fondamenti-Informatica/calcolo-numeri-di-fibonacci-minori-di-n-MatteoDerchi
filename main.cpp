@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n=1, a=0, b=1, c;
     cin>>n;
-    if (n==0) {
+    if (n<=0) {
         cout<<" ";
     }else{
         cout<< "1" <<endl;
