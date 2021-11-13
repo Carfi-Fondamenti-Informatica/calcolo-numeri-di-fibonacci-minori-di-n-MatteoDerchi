@@ -12,6 +12,8 @@ int main() {
             a = b;
             b = c;
             c = a + b;
+        }else{
+            break;
         }
 
         }
